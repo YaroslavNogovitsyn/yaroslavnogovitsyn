@@ -1,4 +1,4 @@
-[![Header](https://github.com/YaroslavNogovitsyn/yaroslavnogovitsyn/blob/master/assets/download-1.gif)]((https://github.com/YaroslavNogovitsyn/yaroslavnogovitsyn/blob/master/assets/download-1.gif))
+[![Header](https://github.com/YaroslavNogovitsyn/yaroslavnogovitsyn/blob/master/assets/download-2.gif)]((https://github.com/YaroslavNogovitsyn/yaroslavnogovitsyn/blob/master/assets/download-2.gif))
 
 ## I'm a beginner Developer and third-year bachelor student at [ITMO University](https://itmo.ru/ru/)
 
