@@ -14,6 +14,7 @@
 ![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=django)
 
 
+### Follow Me
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/Yariszz)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk)](https://vk.com/yaroslav_nogovitsyn)
 
-
-Follow Me
