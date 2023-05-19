@@ -1,7 +1,6 @@
-[![Header](https://github.com/YaroslavNogovitsyn/yaroslavnogovitsyn/blob/master/assets/download-2.gif)]((https://github.com/YaroslavNogovitsyn/yaroslavnogovitsyn/blob/master/assets/download-2.gif))
+[![Header](https://github.com/YaroslavNogovitsyn/yaroslavnogovitsyn/blob/main/assets/download-2.gif)]
 
 ## I'm a beginner Developer and successfully graduated as a bachelor at [ITMO University](https://itmo.ru/ru/)
-
 
 Hi! My name is **Yaroslav Nogovitsyn**. I am a passionate software engineer. I have a deep interest in software
 development and backend development. Most of the
@@ -23,7 +22,6 @@ the website [Profi.ru](https://profi.ru/)
   ![Pytest](https://img.shields.io/badge/-Pytest-090909?style=for-the-badge&logo=pytest)
   ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman)
   ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker)
-
 
 ### Follow Me
 
