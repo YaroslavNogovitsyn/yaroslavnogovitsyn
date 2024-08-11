@@ -16,11 +16,14 @@ Now my main activity is developing backend services at [Vista](https://vistamed.
   ![Flask](https://img.shields.io/badge/-Flask-090909?style=for-the-badge&logo=flask)
   ![FastAPI](https://img.shields.io/badge/-FastAPI-090909?style=for-the-badge&logo=fastapi)
   ![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=mysql)
-  ![GIT](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git)
   ![Postgresql](https://img.shields.io/badge/-Postgresql-090909?style=for-the-badge&logo=postgresql)
+  ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-090909?style=for-the-badge&logo=sqlalchemy)
+  ![GIT](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git)
   ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman)
   ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker)
   ![Redis](https://img.shields.io/badge/-Redis-090909?style=for-the-badge&logo=redis)
+  ![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=linux)
+  ![Celery](https://img.shields.io/badge/-Celery-090909?style=for-the-badge&logo=celery)
 
 ### Follow Me
 
